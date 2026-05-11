@@ -1,8 +1,6 @@
 # 📊 Reportes On-Chain – Cristian Guevara
 
-Colección de reportes sobre **rastreo de transacciones** e **investigación de métricas financieras blockchain**, 
-como apoyo a la **toma de decisiones** y **cumplimiento normativo**.
-
+Colección de reportes y análisis enfocados en métricas on-chain, comportamiento de mercado blockchain, rastreo de transacciones y evaluación de proyectos DeFi.
 ---
 
 ## 📂 Contenido
